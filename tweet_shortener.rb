@@ -49,9 +49,9 @@ def selective_tweet_shortner(tweet)
       final_tweet = shortened_tweet_truncator(tweet)
     end
     
-    return final_tweet
+    final_tweet
   else
-    return tweet
+    tweet
   end
 end
 
