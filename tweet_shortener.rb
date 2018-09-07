@@ -45,5 +45,5 @@ def selective_tweet_shortner(tweet)
 end
 
 def shortened_tweet_truncator(string)
-  string[0...139]
+  string[0..139]
 end
