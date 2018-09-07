@@ -55,3 +55,5 @@ def selective_tweet_shortner(tweet)
   end
 end
 
+def selective_tweet_shortner(tween)
+
